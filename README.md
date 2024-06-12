@@ -15,5 +15,5 @@ Clicking on the images will take you to the preview, not the download link
 <img src="https://i.imgur.com/oavPMN9.png"/>
 
 # [akoli dt cursor mod](https://www.mediafire.com/file/v2xwkmxhazh3lyg/Rafis_2018-03-26_HDDT_%2528akolibed_edit%2529_yellow_cursor.osk/file)
-[osu!_h3UuaqqEZm](https://github.com/Ichizero2310/skin/assets/123803323/20aa3990-d226-461e-a159-7b090f949914)
+<[osu!_h3UuaqqEZm](https://github.com/Ichizero2310/skin/assets/123803323/20aa3990-d226-461e-a159-7b090f949914)
 
