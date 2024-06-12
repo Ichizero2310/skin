@@ -14,3 +14,6 @@ Clicking on the images will take you to the preview, not the download link
 # [ar 11](https://cdn.discordapp.com/attachments/1250115429263868009/1250115522826076211/cent_hr_ar_11_reading.osk?ex=6669c44e&is=666872ce&hm=d82bcf3c693f55978edd0df5964a5aaa14f933f7a7142dc95f57b0bb6596d323&)
 <img src="https://i.imgur.com/oavPMN9.png"/>
 
+# [akoli dt cursor mod](https://www.mediafire.com/file/v2xwkmxhazh3lyg/Rafis_2018-03-26_HDDT_%2528akolibed_edit%2529_yellow_cursor.osk/file)
+<img src=![osu!_h3UuaqqEZm](https://github.com/Ichizero2310/skin/assets/123803323/20aa3990-d226-461e-a159-7b090f949914)
+
